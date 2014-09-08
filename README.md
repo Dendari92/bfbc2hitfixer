@@ -13,7 +13,7 @@ So here's where the developing process of the program started, the purpose was t
 Does It Work?
 =============
 
-The most common question I get since I've published this program is: "does it work?". There's no definitive answer, some says it work, others say it doesn't work and it's just placebo. You can find some video proofs which show it working (example: https://www.youtube.com/watch?v=erZPhcwkSw0), but there isn't any proof in the game's files that indicates if the "fix" is even recognized.
+The most common question I get since I've published this program is: "does it work?". There's no definitive answer, some says it works, others say it doesn't work and it's just placebo. You can find some video proofs which show it working (example: https://www.youtube.com/watch?v=erZPhcwkSw0), but there isn't any proof in the game's files that indicates if the "fix" is even recognized.
 
 At the end the only way to know if it does work or not is to try it out yourself, at worst nothing changes.
 
